@@ -40,5 +40,5 @@ All public repos use anonymised or sample data.
 
 I'm open to **Director / Head of E-Commerce** roles and to selected **Amazon & marketplace consulting** projects.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/canarica/)
 - ✉️ aricacan@gmail.com
