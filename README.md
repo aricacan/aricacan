@@ -29,6 +29,12 @@ All public repos use anonymised or sample data.
 
 ---
 
+#### 🚀 Featured project
+
+**[Amazon Search Term Analyzer](https://github.com/aricacan/amazon-search-term-analyzer)**: a .NET CLI that turns Amazon Sponsored Products search term reports into negative keywords, exact-match harvest candidates and ACoS-based bid changes. Rules are unit-tested and run on synthetic sample data.
+
+---
+
 #### 🧰 Toolbox
 
 `C#` `.NET` `ASP.NET Core` `SQL` `REST APIs` `Amazon SP-API` `Amazon Ads API`
